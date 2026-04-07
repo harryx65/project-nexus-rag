@@ -151,8 +151,5 @@ The backend uses a simple event-driven workflow:
 - SSE streaming
 - citations shown in UI
 
-### 4. Architecture and scalability
-- `DESIGN.md` includes Mermaid diagram
-- rate limiting, caching, scaling, model latency handling included
 
 
