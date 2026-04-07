@@ -155,19 +155,4 @@ The backend uses a simple event-driven workflow:
 - `DESIGN.md` includes Mermaid diagram
 - rate limiting, caching, scaling, model latency handling included
 
-## Suggested GitHub repo name
 
-```bash
-limi-ai-project-nexus
-```
-
-## Final tip before submission
-
-Record a short demo video or screenshots showing:
-- PDF upload
-- ingestion
-- streamed answer
-- citations panel
-- design file
-
-That will make your submission stronger.
